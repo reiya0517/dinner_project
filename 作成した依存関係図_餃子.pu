@@ -1,0 +1,12 @@
+@startuml 餃子
+title 餃子工程
+
+start
+fork
+:米を炊く;
+:具材を切る;
+:ひき肉と野菜を混ぜる;
+:味を付ける;
+:皮で包む;
+stop
+@enduml

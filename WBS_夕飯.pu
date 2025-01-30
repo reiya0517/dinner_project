@@ -1,0 +1,10 @@
+@startwbs 炒飯
+title 夕飯wbs
+* 夕飯を作る
+**[#SkyBlue] 買い物に行く
+***[#Yellow] みんなからお金を集める
+***[#Yellow] 具材を買いにいく
+**[#Skyblue] 準備
+**[#SkyBlue] チャーハンを創る
+**[#SkyBlue] ギョーザを創る
+@endwbs

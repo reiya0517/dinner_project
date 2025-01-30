@@ -1,0 +1,12 @@
+@startwbs 調理
+title 炒飯を作るwbs 
+* 炒飯を作る 
+**[#SkyBlue] 準備
+***[#Yellow] 米をたく
+***[#Yellow] 具材を切る
+***[#Yellow] 皿を用意する
+**[#SkyBlue] 調理
+***[#Yellow] 炒める
+***[#Yellow] 味を付ける
+***[#Yellow] 盛り付け
+@endwbs

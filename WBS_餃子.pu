@@ -1,0 +1,10 @@
+@startwbs 餃子
+title 餃子wbs
+* 餃子を作る
+**[#Skyblue] 準備
+***[#Yellow] 具材を切る
+**[#SkyBlue] 調理
+***[#Yellow] ひき肉と野菜を混ぜる
+***[#Yellow] 皮で包む
+***[#Yellow] 焼く
+@endwbs
